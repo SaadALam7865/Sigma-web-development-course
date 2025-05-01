@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(241, 99, 128)
+}
+
+#my-h1{
+    background-color: blue;
+}
+
+.my{
+    background-color: chocolate;
+}
+
+#btn{
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin: 5px;
+    background-color: chocolate;
+    display: flex;
+    justify-items: center;
+    margin-left: 50px;
+    text-align: center;
+    border: 1px solid rgb(104, 104, 236);
+    font-weight: 500;
+    font-size: larger;
+    text-align: center;
+    text-shadow: 13px;
+    box-shadow: 1px 0px 0px rgba(blue , green, blue, alpha);
+}
+
